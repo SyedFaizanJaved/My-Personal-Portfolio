@@ -21,7 +21,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/me.JPEG") top right no-repeat;
+  background: #040404 url("../img/me.jpg") top right no-repeat;
   background-size: contain,cover;
   left: 0;
   right: 0;
@@ -92,7 +92,7 @@ h6 {
 #header h2 {
   font-size: 24px;
   margin-top: 20px;
-  color: rgba(255, 255, 255, 0.8);
+  color: #18d26e;
 }
 
 #header h2 span {
